@@ -55,7 +55,7 @@ export default function Home() {
 					{/* <GithubIcon size={20} /> 
 					Get Source
 				</Link> */}
-					<a href="https://www.github.com/xanmoy" className="bg-transparent text-center hover:bg-white w-60 text-black dark:text-white font-semibold hover:text-black py-2 px-4 border border-black dark:border-white  hover:border-black rounded-full">
+					<a href="https://www.github.com/xanmoy" className="bg-transparent text-center hover:bg-white w-60 text-black dark:text-white font-semibold dark:hover:text-black py-2 px-4 border border-black dark:border-white  hover:border-black rounded-full">
 						
 							Get Source
 						

@@ -47,7 +47,7 @@ export default function RootLayout({
 						
 					</div>
 				</Providers>
-				<hr/>
+				{/* <hr/> */}
 				<Footer />
 			</body>
 		</html>

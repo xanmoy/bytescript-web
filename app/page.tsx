@@ -15,7 +15,7 @@ export default function Home() {
 	return (
 		<>
 		<section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
-			<div className="inline-block max-w-lg text-center justify-center">
+			<div className="inline-block max-w-lg text-center m-10 justify-center">
 				
 				<h1 className="bytescript text-transparent sm:text-8xl lg:text-8xl text-7xl bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">ByteScript</h1>
 				{/* <h1 className={title()}>Make&nbsp;</h1> */}

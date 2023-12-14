@@ -1,8 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Silkscreen:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Preahvihear&family=Silkscreen:wght@700&family=Whisper&display=swap');
 
 .bytescript {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Preahvihear', sans-serif;
 }
 .BS{
     font-family: 'Silkscreen', monospace;
+}
+
+.tagline{
+    font-family: 'Whisper', sans-serif;
 }

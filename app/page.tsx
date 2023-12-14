@@ -41,7 +41,7 @@ export default function Home() {
 					>
 						Get Started
 					</Link> */}
-					<a href="https://www.google.com" className="bg-blue-500 rounded-full hover:bg-blue-700 w-60 text-white font-bold py-2 px-4 border border-blue-700">
+					<a href="https://www.google.com" className="bg-blue-500 rounded-full text-center hover:bg-blue-700 w-60 text-white font-bold py-2 px-4 border border-blue-700">
 						
 							Get Started
 						
@@ -55,7 +55,7 @@ export default function Home() {
 					{/* <GithubIcon size={20} /> 
 					Get Source
 				</Link> */}
-					<a href="https://www.github.com/xanmoy" className="bg-transparent hover:bg-white w-60 text-black dark:text-white font-semibold hover:text-black py-2 px-4 border border-black dark:border-white  hover:border-black rounded-full">
+					<a href="https://www.github.com/xanmoy" className="bg-transparent text-center hover:bg-white w-60 text-black dark:text-white font-semibold hover:text-black py-2 px-4 border border-black dark:border-white  hover:border-black rounded-full">
 						
 							Get Source
 						

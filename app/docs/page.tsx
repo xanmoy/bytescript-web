@@ -1,4 +1,5 @@
 import { title } from "@/components/primitives";
+import "./docs.css"	
 
 export default function DocsPage() {
 	return (
